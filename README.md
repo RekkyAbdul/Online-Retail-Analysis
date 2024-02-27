@@ -1,4 +1,5 @@
 # Online Retail Analysis
+## Tableau dashboard link [https://public.tableau.com/views/OnlineRetailAnalysisProject/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link]
 
 ### Project Overview
 
@@ -41,6 +42,16 @@ The dataset was further explored and analyzed to get the needed information by a
 - The top 10 customers based on revenue generated
 - The product demand across regions.
 - Key performance indicators (total revenue, total quantity, number of customers)
+
+![revenue across month 2011 (2)](https://github.com/RekkyAbdul/Online-Retail-Analysis/assets/149950425/438c4deb-e739-4add-9665-3c3fb41425e2)
+
+![top 10 countries (2)](https://github.com/RekkyAbdul/Online-Retail-Analysis/assets/149950425/22d55f48-afe1-43ef-a83e-c981555f3eb6)
+
+![top 10 customers (2)](https://github.com/RekkyAbdul/Online-Retail-Analysis/assets/149950425/2c4d2b70-3007-4314-bec3-d457a3261768)
+
+![all regions (2)](https://github.com/RekkyAbdul/Online-Retail-Analysis/assets/149950425/e8070af1-4406-4308-a870-2931687262ed)
+
+
 
 
 
