@@ -1,5 +1,5 @@
 # Online Retail Analysis
-## Tableau dashboard link [https://public.tableau.com/views/OnlineRetailAnalysisProject/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link]
+#### [Tableau dashboard link](https://public.tableau.com/views/OnlineRetailAnalysisProject/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ### Project Overview
 
@@ -15,8 +15,10 @@ Sales Data: The primary dataset used for this analysis is the "onlineretail.xlsx
 ### Dataset Information
 The "onlineretail.csv file contains" 54,9019 rows and 8 columns.
 The data points are as follows;
-InvoiceNO	|| StockCode || Description	|| Quantity	|| InvoiceDate	|| UnitPrice	|| CustomerID	|| Country
 
+
+|InvoiceNO	|StockCode | Description	| Quantity	| InvoiceDate	| UnitPrice	| CustomerID	| Country |
+|-----------|----------|--------------|-----------|-------------|-----------|-------------|---------|
 
 ### Data Cleansing/Preparation
 
@@ -52,22 +54,19 @@ The dataset was further explored and analyzed to get the needed information by a
 ![all regions (2)](https://github.com/RekkyAbdul/Online-Retail-Analysis/assets/149950425/e8070af1-4406-4308-a870-2931687262ed)
 
 
-
-
-
 ### Findings/Insights
 The following insights are identified in the course of my analysis;
-•	The total revenue is $9,842,938
-•	Total quantity ordered is 5,229,137
-•	Total customers 4,219
-•	The company has the highest revenue in November, followed by October and September. The data shows that the revenue in the first 8 months is fairly constant as the average
+- The total revenue is $9,842,938
+- The total quantity ordered is 5,229,137
+- Total customers 4,219
+- The company has the highest revenue in November, followed by October and September. The data shows that the revenue in the first 8 months is fairly constant as the average
 revenue generated for these months is around $685k. The increase in revenue starts in September, when the revenue increases by 40% over the previous month. This trend continues till
 November when it reaches 1.5 million USD. This shows that the sales generated during the last quarter of the year are impacted by seasonality.
-•	The Top 10 countries that have growth opportunities are based on revenue generated and quantity ordered are Netherland, Eire, Germany, France, Australia, Spain, Switzerland, and Belgium. 
+- The Top 10 countries that have growth opportunities are based on revenue generated and quantity ordered are Netherland, Eire, Germany, France, Australia, Spain, Switzerland, and Belgium. 
 Sweden and Japan.
-•	The map shows the region that has generated the most revenue compared to the one that has not for the business. It is seen from the map that most sales of the company come from the European 
+- The map shows the region that has generated the most revenue compared to the one that has not for the business. It is seen from the map that most sales of the company come from the European 
 region with very few from American region. Africa and Asia do not have any demand for the products along with Russia.
-•	From the analysis based on the top ten customers, the data shows that there is not much of a difference between the purchases made by the top 10 customers. The customer with the highest revenue only 
+- From the analysis based on the top ten customers, the data shows that there is not much of a difference between the purchases made by the top 10 customers. The customer with the highest revenue only 
 purchases 17% more than the 2nd customer.  This shows that the business is not relying on a few customers to generate their revenue.
 
 ### Recommendations
